@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961961658004",
+    "project_id": "jafar-matary-new",
+    "storage_bucket": "jafar-matary-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961961658004:android:333977f1c6dfa856749681",
+        "android_client_info": {
+          "package_name": "com.abedalirzaq_training.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961961658004-ap0fqb3g22185pb8007pujmm0a4k29si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abedalirzaq_training.app",
+            "certificate_hash": "208b05fe82766ea1d549579912c6442c4832aaba"
+          }
+        },
+        {
+          "client_id": "961961658004-59ur8959rh29irq312so5bldrd9gvf4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfww-4H5OgX26YVyYqT0YeOsWjcYhA73I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961961658004-59ur8959rh29irq312so5bldrd9gvf4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
